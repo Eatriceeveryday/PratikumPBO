@@ -7,7 +7,7 @@ public class PenilaianAnimasi {
     float[] nilai;
 
     public PenilaianAnimasi(float[] nilai){
-
+        this.hasil=hasil;
     }
 
     public float nilai(){
