@@ -5,7 +5,7 @@ public class PenilaianMenulis {
     float[] nilai_surat;
 
     public PenilaianMenulis(float[] nilai_surat) {
-
+        this.nilai_surat=nilai_surat;
     }
 
     public float nilai(){
