@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.Statement;
 
 public class Koneksi {
-    String dbUrl = "jdbc:mysql://localhost/praktikum";
+    String dbUrl = "jdbc:mysql://localhost/tugasjdbc";
     String dbUsername = "root";
     String dbPassword = "";
     static final String driver = "com.mysql.cj.jdbc.Driver";
